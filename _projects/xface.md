@@ -18,19 +18,15 @@ related_publications: false
 I can detect face expression based upon the mood😎. Have a try !
 
 
-<table> 
-   <!--<td>-->
-      <div align='center'>
-      <h2>Tutorial on Usage ( Hindi + English )</h2>
-      <br>
-      <a href="https://www.youtube.com/watch?v=SRvhZQ37I4Y">
-      <img src="https://i.ytimg.com/vi/SRvhZQ37I4Y/maxresdefault.jpg" width='700'>
-      </a>
-      </div>
-      <br>
-      <div align='center'>
-   <!--</td>-->
-</table>
+<div align='center'>
+<h2>Tutorial on Usage ( Hindi + English )</h2>
+<br>
+<a href="https://www.youtube.com/watch?v=SRvhZQ37I4Y">
+<img src="https://i.ytimg.com/vi/SRvhZQ37I4Y/maxresdefault.jpg" width='700'>
+</a>
+</div>
+<br>
+<div align='center'>
         
 ## Working
 <div align='center'>
