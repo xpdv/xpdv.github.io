@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - xprabhudayal
+  - xpdv
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - xpdv/xpdv.github.io
+  - xprabhudayal/xadmin
+  - xprabhudayal/xgen-ai
+  - xprabhudayal/xs
+  - xprabhudayal/MetroCart
+  - xprabhudayal/xface
