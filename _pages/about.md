@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Crafting Innovation with Code, Data, and AI.
+subtitle: 
 
 profile:
   align: right
