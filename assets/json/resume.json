@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Prabhudayal Vaishnav",
-    "label": "Undergraduate Student, Independent Researcher and a Data Science Enthusiast",
+    "label": "Undergraduate Student",
     "image": "",
     "email": "p09m21@gmail.com",
     "phone": "",
-    "url": "https://xpdv.github.io",
+    "url": "xpdv.github.io",
     "summary": "Driven and innovative software engineer with a strong foundation in computer science and a specialization in data science. Passionate about developing cutting-edge solutions and leveraging AI and machine learning to solve complex problems. Actively expanding my skill set through hands-on projects and continuous learning. Proven track record of success in hackathons and open-source contributions, including the development of AI-powered tools and automation solutions. Seeking opportunities to contribute to impactful projects and further enhance my technical expertise.",
     "location": {
       "address": "Bhilai, Chhattisgarh, India",
@@ -88,17 +88,17 @@
     ],
     "publications": [
       {
-        "name": "Comparative Performance Analysis of Major Language Models in the Market",
+        "name": "COMPARATIVE PERFORMANCE ANALYSIS OF MAJOR LANGUAGE MODELS IN THE MARKET",
         "publisher": "Indian Institute of Management Nagpur",
         "releaseDate": "2024-11-12",
-        "url":"https://drive.google.com/file/d/1cYLlf6x2gRYO4VGsQG7X7hNhctL0MtVS/view?usp=sharing",
+        "url":"https://xpdv.github.io/assets/pdf/task_1731397080_Research%20Task%20Comparative%20Performance%20Analys.docx-1.pdf",
         "summary": "It details a comprehensive analysis of the performance of major large language models (LLMs) such as Gemini, ChatGPT, Meta AI, Perplexity, and Claude. The analysis evaluates these models across several key dimensions, including their abilities in multitask language understanding, question answering, mathematical reasoning, and tool usage."
       },
       {
         "name": "EXPLORING STYLE TRANSFER WITH SMALL CHARACTER-LEVEL TRANSFORMERS: A CASE STUDY ON SHAKESPEAREAN AND MODERN TEXTS",
         "publisher": "Preprint",
         "releaseDate": "2024-11-27",
-        "url":"https://drive.google.com/file/d/1VOw6U0q5O0s-mmx2XiCYy34KVZ1zeepc/view?usp=sharing",
+        "url":"https://xpdv.github.io/assets/pdf/rp_style_transfer-1.pdf",
         "summary": "This paper presents a novel approach to style transfer using small character-level transformers, focusing on the conversion of text between Shakespearean and modern writing styles. Style transfer is a critical task in natural language processing (NLP) and creative writing, enabling the adaptation of text to fit specific contexts or audiences. This is particularly relevant in content generation, where the ability to generate text in different styles can enhance the versatility and engagement of the content."
       }
     ],
