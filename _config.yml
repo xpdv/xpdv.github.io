@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Prabhudayal
 middle_name: 
 last_name: Vaishnav
-email: meenakshiprabhu0@gmail.com
+email: p09m21@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My very own portfolio website.
 keywords: "python, large language models, openai, meta-ai, huggingface, automation using python, advanced python, tutorial, projects, resume, portfolio, iim, video editor"
@@ -101,13 +101,13 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: https://prabhudayal.pages.dev # work page URL
 x_username: globalxprada # your X handle
-youtube_id: youtube.com/@global.pradachan # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: global.pradachan # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Contact me on LinkedIn for quicker response
+  Contact me via LinkedIn for quicker response
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
