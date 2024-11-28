@@ -4,8 +4,8 @@
     "label": "Undergraduate Student",
     "image": "",
     "email": "p09m21@gmail.com",
-    "phone": "",
-    "url": "xpdv.github.io",
+    "phone": "+918085948946",
+    "url": "https://prabhudayal.pages.dev",
     "summary": "Driven and innovative software engineer with a strong foundation in computer science and a specialization in data science. Passionate about developing cutting-edge solutions and leveraging AI and machine learning to solve complex problems. Actively expanding my skill set through hands-on projects and continuous learning. Proven track record of success in hackathons and open-source contributions, including the development of AI-powered tools and automation solutions. Seeking opportunities to contribute to impactful projects and further enhance my technical expertise.",
     "location": {
       "address": "Bhilai, Chhattisgarh, India",
@@ -79,9 +79,9 @@
     ],
     "certificates": [
       {
-        "name": "PwC Switzerland Power BI Job Simulation",
+        "name": "PwC Switzerland Power BI Certification",
         "date": "2023-01-01",
-        "issuer": "PwC Switzerland",
+        "issuer": "PwC Switzerland via Forage",
         "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_kT4TdRkix6DQA2psa_1731088615714_completion_certificate.pdf",
         "icon": "fa-solid fa-hashtag"
       }
@@ -96,7 +96,7 @@
       },
       {
         "name": "EXPLORING STYLE TRANSFER WITH SMALL CHARACTER-LEVEL TRANSFORMERS: A CASE STUDY ON SHAKESPEAREAN AND MODERN TEXTS",
-        "publisher": "Preprint",
+        "publisher": "Concept Paper (Preprint)",
         "releaseDate": "2024-11-27",
         "url":"https://xpdv.github.io/assets/pdf/rp_style_transfer-1.pdf",
         "summary": "This paper presents a novel approach to style transfer using small character-level transformers, focusing on the conversion of text between Shakespearean and modern writing styles. Style transfer is a critical task in natural language processing (NLP) and creative writing, enabling the adaptation of text to fit specific contexts or audiences. This is particularly relevant in content generation, where the ability to generate text in different styles can enhance the versatility and engagement of the content."
@@ -166,12 +166,52 @@
         ]
       }
     ],
-    "languages": [],
-    "interests": [],
+    "languages": [
+      {
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }],
+    "interests": [
+      {
+      "name": "AI/ML",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Large Language Models",
+        "Automation",
+        "AI",
+        "Python"
+      ]
+    },
+      {
+      "name": "Cryptography and Offensive Security",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Cryptography",
+        "Offensive Security",
+        "Ethical Hacking"
+      ]
+    },
+      {
+      "name": "Automation using AI Agents",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Large Language Models",
+        "Automation",
+        "AI",
+        "Python"
+      ]
+    }
+    ],
     "references": [],
     "projects": [
       {
-        "name": "The AI Scientist: Sakana AI",
+        "name": "The AI Scientist",
         "summary": "Contributed to Sakana AI’s open-source project to automate research paper generation. Integrated Open-Sourced Language Models to develop an AI Scientist capable of generating research papers. Generated a paper titled 'EXPLORING STYLE TRANSFER WITH SMALL CHARACTER-LEVEL TRANSFORMERS' entirely by utilizing the free resources.",
         "highlights": ["Python", "Large Language Models", "Automation using Python", "AI Agentic Systems"],
         "startDate": "2024-01-19",
