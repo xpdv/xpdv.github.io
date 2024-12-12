@@ -4,9 +4,9 @@
     "label": "Undergraduate Student",
     "image": "",
     "email": "p09m21@gmail.com",
-    "phone": "+918085948946",
-    "url": "https://prabhudayal.pages.dev",
-    "summary": "Driven and innovative software engineer with a strong foundation in computer science and a specialization in data science. Passionate about developing cutting-edge solutions and leveraging AI and machine learning to solve complex problems. Actively expanding my skill set through hands-on projects and continuous learning. Proven track record of success in hackathons and open-source contributions, including the development of AI-powered tools and automation solutions. Seeking opportunities to contribute to impactful projects and further enhance my technical expertise.",
+    "phone": "",
+    "linkedIn": "https://www.linkedin.com/in/xprabhudayal/",
+    "summary": "A Software Engineer with proficiency in Python. Have an interest in Large Language Models (LLMs) and Artificial Intelligence (AI). Constantly learning and Growing with the help of Projects.",
     "location": {
       "address": "Bhilai, Chhattisgarh, India",
       "postalCode": "490025",
@@ -72,15 +72,22 @@
       {
         "title": "Indian Institute of Management Hackathon Winner 2024",
         "date": "2024-01-01",
-        "awarder": "Indian Institute of Management Nagpur",
-        "url": "",
-        "summary": "Data Analyst Hackathon organized by IIM-Nagpur’s incubation center InFED. Automated the report generation of 22 pages by using my Python based AI Agent."
+        "awarder": "Indian Institute of Management (IIM) Nagpur",
+        "url": "https://xpdv.github.io/assets/pdf/win.jpg",
+        "summary": "Data Analyst Hackathon organized by IIM-Nagpur’s incubation center InFED. Automated the report generation of 22 pages by using my Python based AI Agent.",
       }
     ],
     "certificates": [
       {
-        "name": "PwC Switzerland Power BI Certification",
-        "date": "2023-01-01",
+        "name": "Data Science with Python",
+        "date": "2024-12-01",
+        "issuer": "Infosys",
+        "url": "https://xpdv.github.io/assets/pdf/infosys.pdf",
+        "icon": "fa-solid fa-hashtag"
+      },
+      {
+        "name": "PwC Switzerland Power BI",
+        "date": "2024-11-09",
         "issuer": "PwC Switzerland via Forage",
         "url": "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_kT4TdRkix6DQA2psa_1731088615714_completion_certificate.pdf",
         "icon": "fa-solid fa-hashtag"
@@ -88,17 +95,17 @@
     ],
     "publications": [
       {
-        "name": "COMPARATIVE PERFORMANCE ANALYSIS OF MAJOR LANGUAGE MODELS IN THE MARKET",
-        "publisher": "Indian Institute of Management Nagpur",
+        "name": "Comparative Performance Analysis Of Major Language Models In The Market",
+        "publisher": "Indian Institute of Management (IIM) Nagpur",
         "releaseDate": "2024-11-12",
-        "url":"https://xpdv.github.io/assets/pdf/task_1731397080_Research%20Task%20Comparative%20Performance%20Analys.docx-1.pdf",
+        "url":"https://xpdv.github.io/assets/pdf/iim.pdf",
         "summary": "It details a comprehensive analysis of the performance of major large language models (LLMs) such as Gemini, ChatGPT, Meta AI, Perplexity, and Claude. The analysis evaluates these models across several key dimensions, including their abilities in multitask language understanding, question answering, mathematical reasoning, and tool usage."
       },
       {
-        "name": "EXPLORING STYLE TRANSFER WITH SMALL CHARACTER-LEVEL TRANSFORMERS: A CASE STUDY ON SHAKESPEAREAN AND MODERN TEXTS",
-        "publisher": "Concept Paper (Preprint)",
+        "name": "Exploring Style Transfer With Small Character-level Transformers: A Case Study On Shakespearean And Modern Texts",
+        "publisher": "University of LLMs",
         "releaseDate": "2024-11-27",
-        "url":"https://xpdv.github.io/assets/pdf/rp_style_transfer-1.pdf",
+        "url":"https://xpdv.github.io/assets/pdf/rp.pdf",
         "summary": "This paper presents a novel approach to style transfer using small character-level transformers, focusing on the conversion of text between Shakespearean and modern writing styles. Style transfer is a critical task in natural language processing (NLP) and creative writing, enabling the adaptation of text to fit specific contexts or audiences. This is particularly relevant in content generation, where the ability to generate text in different styles can enhance the versatility and engagement of the content."
       }
     ],
