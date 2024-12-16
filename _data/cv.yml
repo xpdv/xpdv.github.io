@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Prabhudayal Vaishnav
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 19/12/2003
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Technology (Hons.) in Computer Science and Engineering (Data Science)
+      institution: Chhattisgarh Swami Vivekanand Technical University, Bhilai, 491107
+      year: Ongoing (5th Semester), Previous Semester’s GPA: 7.9/10
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - 
+    - title: School Education
+      institution: Kendriya Vidyalaya BMY Bhilai, 490025
+      year: 2022-26
       description:
-        - Description 1.
-        - Description 2.
+        - CGPA: 7.2/10
+        - Class 10: 88.9%
+        - Class 12: 78.2%
 
-- title: Experience
+- title: Technical Skills
+  type: list
+  contents:
+    - Programming Languages: Python, React, JavaScript, C, C++, SQL, Matlab, R
+    - AI and LLM Tools/Frameworks: LangChain, LlamaIndex, Ollama, HuggingFace Transformers, PyTorch, TensorFlow
+    - Cloud Platforms: High Performance Cluster (CDAC Paramutkarsh), Amazon Sagemaker, Ola Krutrim, Google Colab
+    - Data Analysis and Visualization Tools: Pandas, Numpy, Seaborn, Power BI
+    - Miscellaneous Skills: Linux, LT Spice, Cisco Packet Tracer, Davinci Resolve, Adobe After Effects
+
+- title: Relevant Coursework
+  type: list
+  contents:
+    - Core Computer Science: Object Oriented Programming, Database Management System, Computer Architecture Organization, Computer Network, Operating System, Data Structures and Algorithms
+    - Artificial Intelligence and Data Science: Artificial Intelligence, Data Visualization, Pattern Recognition and Machine Learning, Natural Language Processing
+    - Mathematics and Theoretical Foundations: Theory of Computation, Cryptography and Network Security
+
+- title: Projects
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: The AI Scientist: Sakana AI
+      year: [2024]
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Contributed to Sakana AI’s Open Source project to Automate the Scientific Research.
+        - Added 8 open-source language models, achieving a 75% reduction in generation costs.
+        - Adapted the model for compatibility with T4 GPU, moving away the dependency on high-end GPUs like H100/A100.
+        - Released a research paper titled "Exploring Style Transfer with Small Character-Level Transformers", utilizing the Qwen2.5(72B) language model.
+    - title: Development of Python Module: XS
+      year: [2024]
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Creating Endpoint URLs for Open-Source LLMs.
+        - Engineered and released a Python package for generating Endpoint URLs for LLMs.
+        - Supports 99% of open-source LLMs available on Hugging Face.
+        - Utilizes the Ngrok API to establish a secure tunnel from the server’s localhost to the global network.
+    - title: Remote Shell Access Bot: XAdmin
+      year: [2022]
       description:
+        - Establishes Reverse Shell Connections without login credentials.
+        - Access the host PC’s shell remotely without the host’s awareness.
+        - Transforms your Telegram chat into a command line for your PC, enabling remote administration from a distance.
+        - Supports 5+ features including remote file sharing, screenshot capture, terminal access, IP address extraction, etc.
+    - title: XGenAI Telegram Bot
+      year: [2023]
+      description:
+        - Telegram bot featuring Retrieval Augmented Generation (RAG) capabilities.
+        - Developed an intelligent Telegram bot using Meta Llama 3.1, offering document-based Q&A with a 90% response accuracy.
+        - Successfully implemented in over 5+ real-world scenarios for educational purposes.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Indian Institute of Management Hackathon Winner
+          - Data Analyst Hackathon organized by IIM-Nagpur’s incubation center InFED at Nagpur on 12 November 2024.
+          - Won 1st place by presenting a solution to the Startup’s Problem: AI Product Comparison.
+          - Automated the generation of a 22-page report using a Python-based AI Agent, significantly reducing manual effort and time by 90%.
+
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Natural Language Processing
+        - Automated Scientific Research
+        - Open-Source Language Models
+    - title: Data Science
       items:
-        - Description 1.
-        - Description 2.
+        - Data Analysis
+        - Data Visualization
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+ 
