@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Prabhudayal Vaishnav
+    - name: Designation
+      value: 3rd Year, Undergraduate Student
+    - name: Date of Birth
+      value: 19/12/2003
 
 
 - title: Education
@@ -10,12 +14,12 @@
   contents:
     - title: Bachelor of Technology (Hons.) in Computer Science and Engineering (Data Science)
       institution: Chhattisgarh Swami Vivekanand Technical University, Bhilai, 491107
-      year: Ongoing (5th Semester), Previous Semester’s GPA: 7.9/10
-      description:
-        - 
+      year: 2022-26
+      description: 
+        - Ongoing (5th Semester), Previous Semester’s GPA: 7.9/10
     - title: School Education
       institution: Kendriya Vidyalaya BMY Bhilai, 490025
-      year: 2022-26
+      year: [2022-26]
       description:
         - CGPA: 7.2/10
         - Class 10: 88.9%
@@ -40,28 +44,28 @@
 - title: Projects
   type: time_table
   contents:
-    - title: The AI Scientist: Sakana AI
+    - title: The AI Scientist
       year: [2024]
       description:
         - Contributed to Sakana AI’s Open Source project to Automate the Scientific Research.
         - Added 8 open-source language models, achieving a 75% reduction in generation costs.
         - Adapted the model for compatibility with T4 GPU, moving away the dependency on high-end GPUs like H100/A100.
         - Released a research paper titled "Exploring Style Transfer with Small Character-Level Transformers", utilizing the Qwen2.5(72B) language model.
-    - title: Development of Python Module: XS
+    - title: Development of Python Module
       year: [2024]
       description:
         - Creating Endpoint URLs for Open-Source LLMs.
         - Engineered and released a Python package for generating Endpoint URLs for LLMs.
         - Supports 99% of open-source LLMs available on Hugging Face.
         - Utilizes the Ngrok API to establish a secure tunnel from the server’s localhost to the global network.
-    - title: Remote Shell Access Bot: XAdmin
+    - title: XAdmin Telegram Bot, Remote Administration Tool (RAT)
       year: [2022]
       description:
         - Establishes Reverse Shell Connections without login credentials.
         - Access the host PC’s shell remotely without the host’s awareness.
         - Transforms your Telegram chat into a command line for your PC, enabling remote administration from a distance.
         - Supports 5+ features including remote file sharing, screenshot capture, terminal access, IP address extraction, etc.
-    - title: XGenAI Telegram Bot
+    - title: XGenAI Telegram Bot, Chat with your Documents
       year: [2023]
       description:
         - Telegram bot featuring Retrieval Augmented Generation (RAG) capabilities.
@@ -76,7 +80,7 @@
       items:
         - Indian Institute of Management Hackathon Winner
           - Data Analyst Hackathon organized by IIM-Nagpur’s incubation center InFED at Nagpur on 12 November 2024.
-          - Won 1st place by presenting a solution to the Startup’s Problem: AI Product Comparison.
+          - Won 1st place by presenting a solution to the Startup’s Problem  - "AI Product Comparison".
           - Automated the generation of a 22-page report using a Python-based AI Agent, significantly reducing manual effort and time by 90%.
 
 
