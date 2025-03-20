@@ -1,8 +1,8 @@
 ---
 layout: page
-title: XFace Telegram Bot      
-description: A telegram bot which detects face emotion, with the help of Python.
-img: https://i.ytimg.com/vi/SRvhZQ37I4Y/maxresdefault.jpg
+title:       
+# description: A telegram bot which detects face emotion, with the help of Python.
+img: assets/img/prj/xface.webp
 importance: 4
 category: fun
 related_publications: false

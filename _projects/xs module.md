@@ -2,7 +2,7 @@
 layout: page
 title: XS Python Module
 description: A Python module that generates inference endpoints for open-source LLMs.
-img: https://i.postimg.cc/Wzbz7LvZ/image.png
+img : assets/img/prj/xs.webp
 importance: 3
 category: work
 related_publications: false

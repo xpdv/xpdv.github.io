@@ -2,7 +2,7 @@
 layout: page
 title: XGen-AI Bot
 description: A RAG based Telegram Bot, which allows you to Chat with your documents, privately.
-img: https://cdn.getmidnight.com/13448471d89a9cd8d7f71026a0334ec8/2023/05/AI-trading-bots-best-practices.png
+img: assets/img/prj/xgenai.webp
 importance: 1
 category: work
 related_publications: false

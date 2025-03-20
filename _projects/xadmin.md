@@ -2,7 +2,7 @@
 layout: page
 title: XAdmin Bot
 description: A Telegram Bot that provides Reverse Shell Access to the Victim's PC.
-img: https://imgur.com/4pfmKu9.png
+img: assets/img/prj/xadmin.webp
 importance: 5
 category: fun
 related_publications: false

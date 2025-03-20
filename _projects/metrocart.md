@@ -2,7 +2,7 @@
 layout: page
 title: MetroCart Website
 description: An Ecommerce website, providing minimalistic user experience. Inspired from Amazon.
-img: https://i.postimg.cc/MGZmTbVR/main.png
+img: assets/img/prj/metrocart.webp
 importance: 2
 category: work
 related_publications: false
