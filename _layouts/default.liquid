@@ -2,6 +2,24 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
+
+  <!-- Add these meta tags to the <head> section of your default.liquid layout -->
+
+<!-- Prevent content from being framed (prevents clickjacking) -->
+<meta http-equiv="X-Frame-Options" content="SAMEORIGIN">
+
+<!-- Enable Cross-Site Scripting (XSS) protection -->
+<meta http-equiv="X-XSS-Protection" content="1; mode=block">
+
+<!-- Prevent MIME type sniffing -->
+<meta http-equiv="X-Content-Type-Options" content="nosniff">
+
+<!-- Control referrer information -->
+<meta name="referrer" content="strict-origin-when-cross-origin">
+
+<!-- Content Security Policy (Uncomment and customize as needed) -->
+<!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;"> -->
+
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
@@ -73,5 +91,11 @@
     {% include scripts/jekyll_tabs.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
+    <!-- Add this near the end of your default.liquid file, before the closing </body> tag -->
+
+<!-- Security features -->
+<script src="{{ '/assets/js/security.js' | relative_url }}"></script>
+
   </body>
+  
 </html>

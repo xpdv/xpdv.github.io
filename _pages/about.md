@@ -18,7 +18,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 >
-🟢 _Status_ : **Research Intern At ESIEA, PARIS 🇫🇷**
+🟢 _Status_ : **Research Intern At ESIEA, PARIS 🇫🇷** 
 >
 
 I’m doing my `Research Internship` at [ESIEA, PARIS](https://esiea.fr) 🇫🇷 
@@ -28,6 +28,6 @@ I know `C++, React JS, Python` and `DSA` 🔥 ([My LeetCode Profile](https://lee
 This Portfolio contains my 🎓 `Undergraduate Projects`, CV with PDF Resume & all GitHub Repositories.
 
 I’m also a winner 🏆 of Data Analyst Hackathon, held at [IIM, Nagpur 🇮🇳](https://www.iimnagpur.ac.in/) for 
-`AI Products Comparision` in layman to compare between performance of `ChatGPT, Perplexity, Claude, Gemini etc`
+`AI Products Comparision` ie to compare the performance between LLMs like `ChatGPT, Perplexity, Claude, Gemini etc`
  
 Thanks for visiting!!!
