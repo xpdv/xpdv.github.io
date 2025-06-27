@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 I’m doing my `Research Internship` at [ESIEA, PARIS](https://esiea.fr) 🇫🇷 
 
-I know `C++, React JS, Python` and `DSA` 🔥 ([My LeetCode Profile](https://leetcode.com/u/global-prada/))
+I know `C++, React, Next.Js, Typescript, Python` and `DSA` 🔥 ([My LeetCode Profile](https://leetcode.com/u/global-prada/))
 
 This Portfolio contains my 🎓 `Undergraduate Projects`, CV with PDF Resume & all GitHub Repositories.
 
